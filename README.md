@@ -1,12 +1,3 @@
-Here's a GitHub README file for your project along with a short description:  
-
-**Short Description:**  
-The **Smart Intruder Detection System** utilizes ultrasonic and touch sensors to detect intrusions. It triggers an alert using a buzzer and LED lights while updating real-time data to a cloud-based dashboard via Blynk. Secured with TLS/SSL encryption, this system ensures robust monitoring and protection.  
-
-Now, here's the README file:  
-
----
-
 # Smart Intruder Detection System  
 
 ## Overview  
